@@ -1,0 +1,10 @@
+body {
+	padding: 5rem;
+}
+
+.icons {
+	list-style-type: none;
+}
+li i{
+	padding-right:3px;
+}
